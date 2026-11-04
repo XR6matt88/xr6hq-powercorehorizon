@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "xr6hq-powercorehorizon"
+version = "0.1.0"
+description = "Core utilities and energy metrics for XR6HQ PowerCoreHorizon"
+readme = "README.md"
+requires-python = ">=3.8"
